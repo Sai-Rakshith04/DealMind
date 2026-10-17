@@ -25,3 +25,5 @@ packages/database/prisma/*.db
 
 # Misc
 .turbo/
+
+services/api/prisma/
